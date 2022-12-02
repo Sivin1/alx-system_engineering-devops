@@ -1,1 +1,2 @@
-Starting to do hard things
+#!/bin/bash
+My first readme file

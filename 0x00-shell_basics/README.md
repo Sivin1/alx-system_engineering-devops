@@ -1,1 +1,2 @@
-Path name of the current working directory
+#!/bin/bash
+0-current_working_directory
